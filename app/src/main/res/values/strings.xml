@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlfaNotes</string>
+    <string name="btn_update_note">Update Note</string>
+    <string name="btn_save_note">Save Note</string>
+    <string name="date_format">dd MMM, yyyy - HH:mm</string>
+    <string name="note_updated">Note Updated..</string>
+</resources>
